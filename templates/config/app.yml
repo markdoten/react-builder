@@ -1,0 +1,9 @@
+mongo:
+  db: nice
+  host: localhost
+  port: 27017
+  user:
+  pass:
+
+elasticsearch:
+  url: localhost:9200
